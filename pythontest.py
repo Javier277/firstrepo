@@ -1,2 +1,3 @@
 name=2
-print(f"Hola {name}")
+hola = 3
+print(f"Hola {name} con {hola}")
